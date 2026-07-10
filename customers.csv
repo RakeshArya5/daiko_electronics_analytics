@@ -1,0 +1,501 @@
+customer_id,company_name,contact_name,country,region,city,customer_segment,account_manager,credit_limit,payment_terms
+CUST001,Quantum Electronics S.p.A.,Stefan Muller,Germany,Europe,Frankfurt,Enterprise,Ryan Osei,1653200.0,Net 30
+CUST002,Pacific Systems Trading FZE,Ahmed Al Marzooqi,UAE,Middle East,Dubai,Distributor,Fatima Al Zahra,1581300.0,Net 60
+CUST003,Sterling Components B.V.,Francesca Bianchi,Italy,Europe,Milan,Distributor,Sofia Rossi,666400.0,Net 30
+CUST004,Quantum Industries GmbH,Emily Williams,UK,Europe,Manchester,Enterprise,Fatima Al Zahra,871200.0,Net 45
+CUST005,Western Components GmbH,Hans Schneider,Germany,Europe,Frankfurt,Retailer,Laura Bergstrom,259600.0,Net 90
+CUST006,Global Devices B.V.,Luca Ferrari,Italy,Europe,Milan,Enterprise,Laura Bergstrom,1614700.0,Net 30
+CUST007,Superior Industries GmbH,Luca Russo,Italy,Europe,Milan,Distributor,Arjun Mehta,1855400.0,Net 45
+CUST008,Elite Industries Corp,Jun Wei Wong,Singapore,Asia Pacific,Singapore,Retailer,Laura Bergstrom,135100.0,Net 60
+CUST009,United Electronics S.A.,Oliver Williams,UK,Europe,Manchester,Distributor,Natalie Fischer,1868000.0,Net 90
+CUST010,Global Systems Corp,William Brown,Australia,Asia Pacific,Brisbane,Retailer,James O'Connor,363000.0,Net 60
+CUST011,Apex Systems Pte Ltd,Min-jun Kim,South Korea,Asia Pacific,Incheon,Retailer,James O'Connor,324800.0,Net 60
+CUST012,Apex Industries Inc.,Jennifer Johnson,USA,North America,New York,Retailer,Sofia Rossi,139900.0,Net 60
+CUST013,Vantage Electronics Group,Agus Santoso,Indonesia,Asia Pacific,Jakarta,Retailer,Laura Bergstrom,75000.0,Net 45
+CUST014,United Networks Holdings,Seo-yeon Park,South Korea,Asia Pacific,Busan,Retailer,Carlos Mendez,305800.0,Net 60
+CUST015,Summit Solutions Holdings,Takashi Sato,Japan,Asia Pacific,Osaka,Retailer,Kenji Fujimoto,343200.0,Net 30
+CUST016,Fusion Networks LLC,Michael Miller,USA,North America,Dallas,Enterprise,Aisha Rahman,658300.0,Net 90
+CUST017,Sterling Systems LLC,Ashley Davis,USA,North America,New York,Distributor,Aisha Rahman,1246000.0,Net 45
+CUST018,Advanced Electronics & Sons,Anita Sharma,India,South Asia,Delhi,Retailer,James O'Connor,435400.0,Net 45
+CUST019,Horizon Technologies B.V.,Willem van den Berg,Netherlands,Europe,Rotterdam,Retailer,Sofia Rossi,425800.0,Net 30
+CUST020,Summit Industries Trading FZE,Abdullah Al-Qahtani,Saudi Arabia,Middle East,Jeddah,Enterprise,Arjun Mehta,1876500.0,Net 60
+CUST021,Prime Solutions Group,Mohammed Al Marzooqi,UAE,Middle East,Abu Dhabi,Retailer,Daniel Wong,214600.0,Net 30
+CUST022,Prime Systems Holding,Aisha Al Suwaidi,UAE,Middle East,Abu Dhabi,Enterprise,Priyanka Nair,840700.0,Net 60
+CUST023,National Procurement Agency - USA,Robert Davis,USA,North America,San Jose,Government,Priyanka Nair,924400.0,Net 60
+CUST024,Western Distributors Trading Co.,Charlotte Smith,Australia,Asia Pacific,Sydney,Distributor,James O'Connor,1032900.0,Net 30
+CUST025,Pinnacle Devices Corp,Somchai Saetang,Thailand,Asia Pacific,Chiang Mai,Distributor,Ryan Osei,448800.0,Net 60
+CUST026,Nexus Distributors S.A.,Hans Fischer,Germany,Europe,Munich,Retailer,Daniel Wong,177300.0,Net 60
+CUST027,Dynamic Networks B.V.,Jean Dubois,France,Europe,Lyon,Distributor,Natalie Fischer,1011600.0,Net 45
+CUST028,Prime Networks B.V.,Greta Schneider,Germany,Europe,Hamburg,Retailer,Natalie Fischer,181600.0,Net 30
+CUST029,National Procurement Agency - Bangladesh,Rahim Chowdhury,Bangladesh,South Asia,Chittagong,Government,James O'Connor,465400.0,Net 30
+CUST030,Dynamic Solutions Corp,Wei Ling Ng,Singapore,Asia Pacific,Singapore,Distributor,Priyanka Nair,799400.0,Net 30
+CUST031,Quantum Industries Inc.,Jose Lopez,Mexico,North America,Guadalajara,Distributor,Ryan Osei,370500.0,Net 30
+CUST032,Continental Networks Industries,Nasrin Rahman,Bangladesh,South Asia,Chittagong,Distributor,Daniel Wong,1383100.0,Net 90
+CUST033,Advanced Distributors S.p.A.,Marie Martin,France,Europe,Paris,Enterprise,Ryan Osei,1315400.0,Net 30
+CUST034,Global Solutions Group,Hye-jin Kim,South Korea,Asia Pacific,Seoul,Retailer,Laura Bergstrom,344000.0,Net 60
+CUST035,Advanced Technologies Holding,Omar Al Suwaidi,UAE,Middle East,Abu Dhabi,Distributor,Sofia Rossi,626900.0,Net 30
+CUST036,National Procurement Agency - Germany,Hans Fischer,Germany,Europe,Hamburg,Government,Arjun Mehta,425200.0,Net 45
+CUST037,Summit Systems Corp.,David Brown,USA,North America,Dallas,Enterprise,Aisha Rahman,1353300.0,Net 60
+CUST038,Dynamic Traders GmbH,Emily Davies,UK,Europe,Manchester,Distributor,Carlos Mendez,1319400.0,Net 60
+CUST039,Eastern Technologies Holding,Omar Al Falasi,UAE,Middle East,Dubai,Retailer,Marcus Lim,277800.0,Net 30
+CUST040,Zenith Technologies Trading Co.,Charlotte Taylor,Australia,Asia Pacific,Sydney,Enterprise,Fatima Al Zahra,895700.0,Net 45
+CUST041,Alliance Components Corp.,Jose Lopez,Mexico,North America,Mexico City,Distributor,Fatima Al Zahra,1852000.0,Net 45
+CUST042,Sterling Electronics Industries,Rajesh Iyer,India,South Asia,Mumbai,Distributor,Sofia Rossi,877600.0,Net 30
+CUST043,Elite Electronics Group,Hui Min Tan,Singapore,Asia Pacific,Singapore,Distributor,Laura Bergstrom,1074600.0,Net 30
+CUST044,Capital Supply & Sons,Hasan Islam,Bangladesh,South Asia,Dhaka,Distributor,Wei Chen,1452800.0,Net 45
+CUST045,Meridian Distributors PLC,Sophie Williams,UK,Europe,London,Enterprise,Priyanka Nair,1223100.0,Net 45
+CUST046,State Electronics Board - Singapore,Wei Ling Lim,Singapore,Asia Pacific,Singapore,Government,Fatima Al Zahra,481600.0,Net 60
+CUST047,Vantage Distributors Corp,Min-jun Jung,South Korea,Asia Pacific,Seoul,Distributor,Laura Bergstrom,1040600.0,Net 30
+CUST048,Superior Systems Pte Ltd,Dewi Santoso,Indonesia,Asia Pacific,Jakarta,Distributor,Fatima Al Zahra,1650600.0,Net 45
+CUST049,Continental Industries PLC,Femke Jansen,Netherlands,Europe,Rotterdam,Distributor,Wei Chen,772800.0,Net 45
+CUST050,Capital Traders Holdings,Wei Ling Lee,Singapore,Asia Pacific,Singapore,Distributor,Ryan Osei,541800.0,Net 60
+CUST051,NovaTech Systems Industries,Fatema Rahman,Bangladesh,South Asia,Dhaka,Enterprise,James O'Connor,832400.0,Net 60
+CUST052,Vertex Distributors LLC,Robert Davis,USA,North America,Atlanta,Distributor,Daniel Wong,1744200.0,Net 45
+CUST053,Pinnacle Networks Trading Co.,Seo-yeon Choi,South Korea,Asia Pacific,Busan,Distributor,Aisha Rahman,451300.0,Net 60
+CUST054,Continental Networks S.p.A.,Jan de Jong,Netherlands,Europe,Rotterdam,Distributor,Kenji Fujimoto,1985900.0,Net 30
+CUST055,Elite Technologies Group,Mei Ling Ng,Singapore,Asia Pacific,Singapore,Retailer,James O'Connor,293500.0,Net 45
+CUST056,Pacific Supply Inc.,Guadalupe Lopez,Mexico,North America,Monterrey,Distributor,Sofia Rossi,1974200.0,Net 30
+CUST057,Sterling Electronics Group,Sara Al-Ghamdi,Saudi Arabia,Middle East,Jeddah,Enterprise,James O'Connor,1896300.0,Net 45
+CUST058,Capital Supply Holding,Aisha Al Falasi,UAE,Middle East,Dubai,Distributor,Sofia Rossi,1069800.0,Net 60
+CUST059,Nexus Solutions S.A.,Oliver Taylor,UK,Europe,Birmingham,Enterprise,Kenji Fujimoto,637400.0,Net 60
+CUST060,Elite Systems Corp.,Maria Garcia,Mexico,North America,Mexico City,Retailer,Grace Tan,124200.0,Net 30
+CUST061,Meridian Traders S.p.A.,Oliver Smith,UK,Europe,Manchester,Distributor,Wei Chen,708000.0,Net 45
+CUST062,Prime Components Holding,Abdullah Al-Qahtani,Saudi Arabia,Middle East,Jeddah,Retailer,Aisha Rahman,369600.0,Net 45
+CUST063,Alliance Supply Corp.,Liam Roy,Canada,North America,Vancouver,Enterprise,Ryan Osei,764000.0,Net 30
+CUST064,Ministry of Communications - Bangladesh,Rahim Islam,Bangladesh,South Asia,Chittagong,Government,Carlos Mendez,475600.0,Net 30
+CUST065,United Systems Group,Aisha Al Suwaidi,UAE,Middle East,Dubai,Retailer,Carlos Mendez,252000.0,Net 30
+CUST066,Summit Electronics Corp.,Emma Gagnon,Canada,North America,Toronto,Retailer,Wei Chen,461000.0,Net 30
+CUST067,Ministry of Communications - France,Pierre Thomas,France,Europe,Paris,Government,Marcus Lim,308300.0,Net 30
+CUST068,Metro Systems Group,Fatima Al Falasi,UAE,Middle East,Dubai,Retailer,Ryan Osei,52300.0,Net 30
+CUST069,Meridian Traders Corp.,Liam Wilson,Canada,North America,Toronto,Distributor,Fatima Al Zahra,402200.0,Net 30
+CUST070,Ministry of Communications - Japan,Aiko Tanaka,Japan,Asia Pacific,Osaka,Government,Laura Bergstrom,1095200.0,Net 60
+CUST071,Global Supply PLC,Ingrid Schneider,Germany,Europe,Berlin,Distributor,Grace Tan,1400800.0,Net 45
+CUST072,Quantum Solutions B.V.,Luc Thomas,France,Europe,Lyon,Retailer,Wei Chen,172900.0,Net 90
+CUST073,Zenith Technologies Holdings,Hiroshi Yamamoto,Japan,Asia Pacific,Nagoya,Distributor,Carlos Mendez,601200.0,Net 45
+CUST074,Alliance Networks Co.,Robert Johnson,USA,North America,New York,Distributor,James O'Connor,800300.0,Net 60
+CUST075,Vantage Industries GmbH,James Williams,UK,Europe,Birmingham,Distributor,Laura Bergstrom,495200.0,Net 60
+CUST076,Meridian Distributors B.V.,Francesca Esposito,Italy,Europe,Milan,Enterprise,Grace Tan,1900600.0,Net 45
+CUST077,Elite Electronics Pvt Ltd,Rajesh Patel,India,South Asia,Bengaluru,Distributor,Daniel Wong,1633200.0,Net 45
+CUST078,Dynamic Distributors PLC,Harry Davies,UK,Europe,Birmingham,Distributor,Daniel Wong,1086100.0,Net 60
+CUST079,Metro Devices Group,Jack Jones,Australia,Asia Pacific,Sydney,Distributor,Ryan Osei,1770400.0,Net 30
+CUST080,Sterling Traders Corp,William Smith,Australia,Asia Pacific,Melbourne,Retailer,Laura Bergstrom,162300.0,Net 30
+CUST081,Public Works Authority - Japan,Hiroshi Yamamoto,Japan,Asia Pacific,Yokohama,Government,Wei Chen,888800.0,Net 45
+CUST082,Atlas Electronics Corp,Somchai Srisuk,Thailand,Asia Pacific,Bangkok,Retailer,Sofia Rossi,435300.0,Net 45
+CUST083,Superior Components PLC,Jan van den Berg,Netherlands,Europe,Amsterdam,Retailer,Sofia Rossi,210500.0,Net 30
+CUST084,Eastern Distributors S.A.,Greta Schneider,Germany,Europe,Berlin,Enterprise,James O'Connor,1587700.0,Net 90
+CUST085,Fusion Systems GmbH,Pierre Martin,France,Europe,Paris,Retailer,Grace Tan,182800.0,Net 45
+CUST086,Meridian Distributors S.A.,Greta Schneider,Germany,Europe,Munich,Distributor,Grace Tan,808100.0,Net 45
+CUST087,Alliance Electronics B.V.,Pierre Dubois,France,Europe,Paris,Distributor,Ryan Osei,482000.0,Net 90
+CUST088,Summit Traders S.p.A.,Harry Davies,UK,Europe,Birmingham,Distributor,Laura Bergstrom,1048100.0,Net 45
+CUST089,Eastern Traders Inc.,Michael Miller,USA,North America,New York,Distributor,Priyanka Nair,1540500.0,Net 90
+CUST090,Atlas Technologies Corp,Seo-yeon Choi,South Korea,Asia Pacific,Seoul,Retailer,Daniel Wong,473100.0,Net 45
+CUST091,Zenith Distributors Group,Aiko Yamamoto,Japan,Asia Pacific,Nagoya,Enterprise,Grace Tan,1326500.0,Net 30
+CUST092,Pacific Supply Group,Khalid Al-Qahtani,Saudi Arabia,Middle East,Riyadh,Distributor,Laura Bergstrom,1767300.0,Net 60
+CUST093,Horizon Systems Pte Ltd,Malee Saetang,Thailand,Asia Pacific,Chiang Mai,Retailer,Ryan Osei,420100.0,Net 45
+CUST094,Pacific Industries Trading Co.,Jack Taylor,Australia,Asia Pacific,Sydney,Retailer,Kenji Fujimoto,128000.0,Net 60
+CUST095,Pacific Solutions Co.,Jennifer Miller,USA,North America,Atlanta,Distributor,Marcus Lim,1125900.0,Net 90
+CUST096,Summit Distributors S.p.A.,Emily Davies,UK,Europe,Birmingham,Enterprise,Kenji Fujimoto,498800.0,Net 60
+CUST097,United Systems Holdings,Jack Williams,Australia,Asia Pacific,Sydney,Retailer,Ryan Osei,357000.0,Net 45
+CUST098,Western Solutions Holdings,Satoshi Yamamoto,Japan,Asia Pacific,Osaka,Distributor,Aisha Rahman,1914800.0,Net 60
+CUST099,Precision Electronics Group,Jack Brown,Australia,Asia Pacific,Brisbane,Enterprise,Wei Chen,533100.0,Net 45
+CUST100,Summit Traders Holdings,Suda Chaiyasit,Thailand,Asia Pacific,Bangkok,Retailer,James O'Connor,380200.0,Net 45
+CUST101,Apex Solutions Group,Fatima Al Mansoori,UAE,Middle East,Dubai,Retailer,Grace Tan,334500.0,Net 60
+CUST102,Capital Devices LLC,Carlos Lopez,Mexico,North America,Mexico City,Retailer,Ryan Osei,312600.0,Net 30
+CUST103,Vantage Systems Holdings,Olivia Taylor,Australia,Asia Pacific,Sydney,Retailer,Aisha Rahman,225600.0,Net 60
+CUST104,Atlas Networks Pte Ltd,Yuki Watanabe,Japan,Asia Pacific,Tokyo,Enterprise,Carlos Mendez,903700.0,Net 60
+CUST105,Elite Devices Pte Ltd,Chai Srisuk,Thailand,Asia Pacific,Chiang Mai,Distributor,Aisha Rahman,376900.0,Net 60
+CUST106,Fusion Distributors Inc.,Carlos Lopez,Mexico,North America,Guadalajara,Distributor,Arjun Mehta,670400.0,Net 45
+CUST107,Apex Technologies S.p.A.,Klaus Schneider,Germany,Europe,Frankfurt,Distributor,Fatima Al Zahra,325800.0,Net 60
+CUST108,Nexus Traders GmbH,Jean Bernard,France,Europe,Paris,Enterprise,Laura Bergstrom,1288400.0,Net 45
+CUST109,Capital Systems Trading FZE,Omar Al Falasi,UAE,Middle East,Dubai,Distributor,Grace Tan,480000.0,Net 60
+CUST110,Summit Industries LLC,Fatima Al Suwaidi,UAE,Middle East,Abu Dhabi,Enterprise,Marcus Lim,1784100.0,Net 30
+CUST111,Prime Industries S.p.A.,Willem de Vries,Netherlands,Europe,Amsterdam,Retailer,Wei Chen,285400.0,Net 30
+CUST112,Prime Traders Inc.,Mason Roy,Canada,North America,Vancouver,Enterprise,Laura Bergstrom,1489500.0,Net 30
+CUST113,Ministry of Communications - Germany,Klaus Schneider,Germany,Europe,Berlin,Government,Arjun Mehta,551900.0,Net 45
+CUST114,Horizon Distributors Enterprises,Anita Sharma,India,South Asia,Delhi,Enterprise,Laura Bergstrom,1253000.0,Net 45
+CUST115,Alliance Components Corp,Wei Ling Ng,Singapore,Asia Pacific,Singapore,Enterprise,Arjun Mehta,1902500.0,Net 60
+CUST116,Summit Technologies Holdings,Anong Saetang,Thailand,Asia Pacific,Bangkok,Retailer,James O'Connor,87200.0,Net 45
+CUST117,Pacific Industries B.V.,Ingrid Weber,Germany,Europe,Berlin,Retailer,James O'Connor,164300.0,Net 45
+CUST118,Quantum Devices Inc.,Emma Wilson,Canada,North America,Vancouver,Distributor,Daniel Wong,1626000.0,Net 30
+CUST119,Superior Components Group,Mohammed Al Mansoori,UAE,Middle East,Dubai,Distributor,Daniel Wong,467900.0,Net 45
+CUST120,Metro Traders GmbH,Giulia Rossi,Italy,Europe,Milan,Retailer,Sofia Rossi,84000.0,Net 45
+CUST121,Elite Networks Group,Wei Ling Ng,Singapore,Asia Pacific,Singapore,Retailer,Priyanka Nair,212700.0,Net 30
+CUST122,Continental Industries Inc.,Ethan Gagnon,Canada,North America,Vancouver,Distributor,Grace Tan,456700.0,Net 30
+CUST123,Atlas Electronics B.V.,Hans Weber,Germany,Europe,Hamburg,Retailer,Ryan Osei,313300.0,Net 30
+CUST124,Elite Components Holdings,Ji-woo Jung,South Korea,Asia Pacific,Incheon,Enterprise,Grace Tan,684700.0,Net 30
+CUST125,Horizon Technologies S.A.,Bram Jansen,Netherlands,Europe,Rotterdam,Retailer,Natalie Fischer,453100.0,Net 45
+CUST126,Vertex Industries Corp.,Liam Martin,Canada,North America,Montreal,Enterprise,Ryan Osei,1632000.0,Net 30
+CUST127,Precision Networks Holdings,Budi Santoso,Indonesia,Asia Pacific,Surabaya,Enterprise,Arjun Mehta,1489500.0,Net 60
+CUST128,Federal Technology Bureau - USA,Ashley Davis,USA,North America,Chicago,Government,Aisha Rahman,778600.0,Net 60
+CUST129,Western Traders Inc.,David Williams,USA,North America,Chicago,Retailer,Grace Tan,438600.0,Net 45
+CUST130,Capital Industries PLC,Francesca Ferrari,Italy,Europe,Rome,Enterprise,Grace Tan,679200.0,Net 90
+CUST131,Public Works Authority - Germany,Greta Muller,Germany,Europe,Munich,Government,Priyanka Nair,1060400.0,Net 45
+CUST132,National Procurement Agency - Japan,Aiko Suzuki,Japan,Asia Pacific,Yokohama,Government,Carlos Mendez,968400.0,Net 45
+CUST133,Nexus Traders Corp,Satoshi Watanabe,Japan,Asia Pacific,Yokohama,Distributor,Ryan Osei,1571900.0,Net 90
+CUST134,NovaTech Devices Co.,Ava Roy,Canada,North America,Vancouver,Retailer,Daniel Wong,302600.0,Net 30
+CUST135,Advanced Components S.A.,Pierre Dubois,France,Europe,Paris,Distributor,Daniel Wong,718600.0,Net 90
+CUST136,Elite Devices Trading Co.,Charlotte Brown,Australia,Asia Pacific,Melbourne,Distributor,Marcus Lim,1020000.0,Net 30
+CUST137,Quantum Traders B.V.,Hans Schneider,Germany,Europe,Hamburg,Retailer,Grace Tan,407100.0,Net 45
+CUST138,Advanced Traders Corp,Siti Kusuma,Indonesia,Asia Pacific,Jakarta,Enterprise,Priyanka Nair,354000.0,Net 30
+CUST139,Sterling Industries PLC,James Taylor,UK,Europe,Manchester,Enterprise,Wei Chen,1629500.0,Net 60
+CUST140,Horizon Technologies PLC,Camille Martin,France,Europe,Lyon,Distributor,Daniel Wong,708100.0,Net 45
+CUST141,Precision Components Trading Co.,Suda Saetang,Thailand,Asia Pacific,Bangkok,Enterprise,Priyanka Nair,545300.0,Net 60
+CUST142,Vertex Distributors Group,Kenji Yamamoto,Japan,Asia Pacific,Tokyo,Retailer,Kenji Fujimoto,102100.0,Net 30
+CUST143,United Devices S.p.A.,Femke de Jong,Netherlands,Europe,Amsterdam,Enterprise,Fatima Al Zahra,346300.0,Net 30
+CUST144,State Electronics Board - USA,Michael Johnson,USA,North America,Atlanta,Government,Carlos Mendez,675900.0,Net 30
+CUST145,Orion Supply Holding,Aisha Al Marzooqi,UAE,Middle East,Dubai,Retailer,Grace Tan,148200.0,Net 30
+CUST146,Zenith Distributors S.A.,Luc Bernard,France,Europe,Lyon,Distributor,Fatima Al Zahra,1982000.0,Net 90
+CUST147,Vertex Electronics Pvt Ltd,Sneha Patel,India,South Asia,Bengaluru,Enterprise,Marcus Lim,1276500.0,Net 30
+CUST148,NovaTech Networks Pvt Ltd,Sneha Kumar,India,South Asia,Delhi,Distributor,Arjun Mehta,534400.0,Net 60
+CUST149,Vantage Devices Corp.,David Brown,USA,North America,Dallas,Distributor,Aisha Rahman,1470900.0,Net 60
+CUST150,Elite Networks S.p.A.,Ingrid Muller,Germany,Europe,Frankfurt,Enterprise,Daniel Wong,1826200.0,Net 30
+CUST151,Pinnacle Supply Pte Ltd,Min-jun Jung,South Korea,Asia Pacific,Busan,Distributor,Kenji Fujimoto,1566800.0,Net 45
+CUST152,Zenith Networks Corp,Olivia Brown,Australia,Asia Pacific,Melbourne,Enterprise,Wei Chen,429900.0,Net 30
+CUST153,United Distributors Enterprises,Sneha Gupta,India,South Asia,Bengaluru,Distributor,Arjun Mehta,1823000.0,Net 30
+CUST154,Pinnacle Components Pte Ltd,Somchai Boonmee,Thailand,Asia Pacific,Chiang Mai,Enterprise,Priyanka Nair,1649700.0,Net 30
+CUST155,Elite Supply Pvt Ltd,Sneha Sharma,India,South Asia,Bengaluru,Distributor,James O'Connor,569100.0,Net 45
+CUST156,National Procurement Agency - India,Vikram Patel,India,South Asia,Delhi,Government,Laura Bergstrom,157000.0,Net 45
+CUST157,Sterling Devices Pvt Ltd,Vikram Gupta,India,South Asia,Delhi,Enterprise,Grace Tan,1247400.0,Net 45
+CUST158,Advanced Components Group,Seo-yeon Park,South Korea,Asia Pacific,Incheon,Distributor,Grace Tan,565300.0,Net 45
+CUST159,Dynamic Industries Holdings,Seo-yeon Jung,South Korea,Asia Pacific,Busan,Retailer,Kenji Fujimoto,425600.0,Net 30
+CUST160,Ministry of Communications - Thailand,Chai Chaiyasit,Thailand,Asia Pacific,Chiang Mai,Government,Priyanka Nair,494200.0,Net 45
+CUST161,Sterling Networks Holdings,Yuki Sato,Japan,Asia Pacific,Tokyo,Retailer,Sofia Rossi,460800.0,Net 60
+CUST162,Metro Networks Pte Ltd,Yuki Suzuki,Japan,Asia Pacific,Osaka,Distributor,Grace Tan,1261700.0,Net 30
+CUST163,Capital Devices Group,Seo-yeon Lee,South Korea,Asia Pacific,Seoul,Retailer,Sofia Rossi,132200.0,Net 30
+CUST164,NovaTech Systems Co.,David Davis,USA,North America,San Jose,Retailer,Wei Chen,112800.0,Net 60
+CUST165,Continental Distributors Corp,Rizal Santoso,Indonesia,Asia Pacific,Surabaya,Enterprise,James O'Connor,1280000.0,Net 30
+CUST166,Pinnacle Networks Pte Ltd,Kai Xuan Wong,Singapore,Asia Pacific,Singapore,Retailer,Kenji Fujimoto,392800.0,Net 45
+CUST167,Pacific Technologies PLC,Giulia Bianchi,Italy,Europe,Turin,Retailer,Arjun Mehta,401700.0,Net 30
+CUST168,Zenith Electronics Industries,Vikram Patel,India,South Asia,Bengaluru,Distributor,Fatima Al Zahra,768800.0,Net 30
+CUST169,Pacific Traders Pte Ltd,Dewi Wijaya,Indonesia,Asia Pacific,Jakarta,Retailer,Priyanka Nair,141900.0,Net 30
+CUST170,Orion Systems Pte Ltd,Anong Boonmee,Thailand,Asia Pacific,Bangkok,Retailer,Priyanka Nair,57500.0,Net 30
+CUST171,Advanced Traders Pte Ltd,Joon-ho Lee,South Korea,Asia Pacific,Seoul,Distributor,Natalie Fischer,1454600.0,Net 45
+CUST172,Federal Technology Bureau - Indonesia,Dewi Wijaya,Indonesia,Asia Pacific,Jakarta,Government,Wei Chen,184200.0,Net 45
+CUST173,Nexus Traders B.V.,Marco Bianchi,Italy,Europe,Rome,Retailer,Wei Chen,239300.0,Net 60
+CUST174,Western Solutions Holding,Khalid Al-Harbi,Saudi Arabia,Middle East,Jeddah,Retailer,Carlos Mendez,320800.0,Net 60
+CUST175,Horizon Networks LLC,Sara Al-Otaibi,Saudi Arabia,Middle East,Riyadh,Enterprise,Laura Bergstrom,1893100.0,Net 45
+CUST176,Fusion Industries Pte Ltd,Aiko Watanabe,Japan,Asia Pacific,Osaka,Retailer,Daniel Wong,190300.0,Net 60
+CUST177,Vertex Technologies S.p.A.,Luc Robert,France,Europe,Paris,Enterprise,Ryan Osei,724600.0,Net 30
+CUST178,Pacific Technologies Holdings,Budi Wijaya,Indonesia,Asia Pacific,Surabaya,Retailer,Daniel Wong,344400.0,Net 45
+CUST179,Dynamic Solutions LLC,Khalid Al-Ghamdi,Saudi Arabia,Middle East,Jeddah,Distributor,Natalie Fischer,1352700.0,Net 60
+CUST180,Atlas Devices Corp,Noah Taylor,Australia,Asia Pacific,Sydney,Retailer,Aisha Rahman,199400.0,Net 30
+CUST181,Fusion Technologies Corp,Mei Ling Lee,Singapore,Asia Pacific,Singapore,Retailer,Marcus Lim,467600.0,Net 45
+CUST182,Capital Components Holdings,William Jones,Australia,Asia Pacific,Melbourne,Enterprise,Kenji Fujimoto,1736300.0,Net 30
+CUST183,Pinnacle Distributors S.p.A.,Klaus Weber,Germany,Europe,Munich,Distributor,James O'Connor,680800.0,Net 45
+CUST184,Apex Distributors B.V.,Pierre Bernard,France,Europe,Paris,Distributor,Priyanka Nair,706500.0,Net 60
+CUST185,Prime Supply Pte Ltd,Hiroshi Yamamoto,Japan,Asia Pacific,Osaka,Distributor,Laura Bergstrom,1170900.0,Net 60
+CUST186,Eastern Components GmbH,Sophie Davies,UK,Europe,London,Distributor,Sofia Rossi,1615100.0,Net 60
+CUST187,Pinnacle Distributors S.p.A.,Stefan Schneider,Germany,Europe,Munich,Enterprise,Kenji Fujimoto,374900.0,Net 60
+CUST188,Atlas Systems & Sons,Nasrin Chowdhury,Bangladesh,South Asia,Dhaka,Distributor,Aisha Rahman,1478700.0,Net 45
+CUST189,Meridian Devices S.p.A.,James Taylor,UK,Europe,Birmingham,Retailer,Fatima Al Zahra,341700.0,Net 45
+CUST190,Global Components Holdings,Naoko Yamamoto,Japan,Asia Pacific,Nagoya,Retailer,Kenji Fujimoto,154200.0,Net 30
+CUST191,Orion Components PLC,Luca Bianchi,Italy,Europe,Turin,Retailer,Aisha Rahman,356600.0,Net 45
+CUST192,Alliance Networks Industries,Fatema Chowdhury,Bangladesh,South Asia,Dhaka,Enterprise,Priyanka Nair,1898300.0,Net 45
+CUST193,Dynamic Components S.A.,Femke de Vries,Netherlands,Europe,Amsterdam,Retailer,Marcus Lim,71100.0,Net 90
+CUST194,Advanced Systems Pte Ltd,Noah Smith,Australia,Asia Pacific,Sydney,Enterprise,Aisha Rahman,843400.0,Net 45
+CUST195,Orion Systems PLC,Ingrid Fischer,Germany,Europe,Frankfurt,Retailer,Priyanka Nair,247200.0,Net 45
+CUST196,Global Components Holding,Noura Al-Qahtani,Saudi Arabia,Middle East,Riyadh,Distributor,Priyanka Nair,1828700.0,Net 45
+CUST197,National Procurement Agency - Saudi Arabia,Abdullah Al-Qahtani,Saudi Arabia,Middle East,Jeddah,Government,Marcus Lim,1158500.0,Net 45
+CUST198,NovaTech Traders Pvt Ltd,Priya Kumar,India,South Asia,Delhi,Distributor,Daniel Wong,1055000.0,Net 60
+CUST199,Alliance Industries Holdings,Hye-jin Jung,South Korea,Asia Pacific,Busan,Distributor,Kenji Fujimoto,1575000.0,Net 30
+CUST200,Vantage Industries Corp,Kenji Yamamoto,Japan,Asia Pacific,Nagoya,Enterprise,Natalie Fischer,1203800.0,Net 45
+CUST201,Atlas Supply Holding,Abdullah Al-Otaibi,Saudi Arabia,Middle East,Jeddah,Distributor,Grace Tan,1214200.0,Net 60
+CUST202,Orion Solutions Co.,Ashley Brown,USA,North America,San Jose,Enterprise,Grace Tan,772800.0,Net 45
+CUST203,Continental Supply Group,Anong Srisuk,Thailand,Asia Pacific,Chiang Mai,Retailer,Natalie Fischer,147600.0,Net 30
+CUST204,State Electronics Board - Thailand,Suda Boonmee,Thailand,Asia Pacific,Chiang Mai,Government,Fatima Al Zahra,416800.0,Net 45
+CUST205,Global Supply PLC,Luc Thomas,France,Europe,Paris,Enterprise,Sofia Rossi,1245800.0,Net 60
+CUST206,Apex Industries S.p.A.,Luc Dubois,France,Europe,Marseille,Retailer,Wei Chen,63100.0,Net 30
+CUST207,State Electronics Board - Australia,Charlotte Taylor,Australia,Asia Pacific,Brisbane,Government,Sofia Rossi,1098000.0,Net 60
+CUST208,Summit Components Trading FZE,Abdullah Al-Qahtani,Saudi Arabia,Middle East,Riyadh,Distributor,Wei Chen,565700.0,Net 60
+CUST209,Ministry of Communications - Saudi Arabia,Sara Al-Otaibi,Saudi Arabia,Middle East,Riyadh,Government,Natalie Fischer,342100.0,Net 45
+CUST210,Precision Components Corp,Olivia Brown,Australia,Asia Pacific,Melbourne,Distributor,Grace Tan,1181100.0,Net 90
+CUST211,Vertex Distributors Pte Ltd,Satoshi Tanaka,Japan,Asia Pacific,Tokyo,Retailer,James O'Connor,369600.0,Net 60
+CUST212,Advanced Systems S.p.A.,Luca Ferrari,Italy,Europe,Rome,Distributor,Grace Tan,462700.0,Net 60
+CUST213,Vertex Industries Pvt Ltd,Priya Reddy,India,South Asia,Delhi,Retailer,Sofia Rossi,193000.0,Net 60
+CUST214,Vertex Devices GmbH,Sophie Taylor,UK,Europe,Birmingham,Distributor,Laura Bergstrom,1946700.0,Net 30
+CUST215,Prime Electronics Trading Co.,Kai Xuan Ng,Singapore,Asia Pacific,Singapore,Enterprise,Natalie Fischer,746000.0,Net 30
+CUST216,Orion Distributors Holdings,Agus Wijaya,Indonesia,Asia Pacific,Jakarta,Enterprise,Fatima Al Zahra,832200.0,Net 45
+CUST217,State Electronics Board - UK,Oliver Williams,UK,Europe,London,Government,Sofia Rossi,1020100.0,Net 30
+CUST218,Pacific Solutions Trading Co.,Jack Williams,Australia,Asia Pacific,Melbourne,Distributor,James O'Connor,385400.0,Net 45
+CUST219,Dynamic Devices Group,Noura Al-Otaibi,Saudi Arabia,Middle East,Jeddah,Retailer,Kenji Fujimoto,259100.0,Net 60
+CUST220,Dynamic Traders Corp,William Taylor,Australia,Asia Pacific,Melbourne,Retailer,Wei Chen,220800.0,Net 60
+CUST221,Zenith Electronics Enterprises,Karim Ahmed,Bangladesh,South Asia,Dhaka,Distributor,Grace Tan,838200.0,Net 45
+CUST222,Summit Systems Inc.,Guadalupe Martinez,Mexico,North America,Guadalajara,Distributor,Fatima Al Zahra,785700.0,Net 60
+CUST223,Orion Supply Enterprises,Nasrin Chowdhury,Bangladesh,South Asia,Dhaka,Retailer,Marcus Lim,91100.0,Net 60
+CUST224,Vantage Components Trading Co.,Hye-jin Park,South Korea,Asia Pacific,Busan,Enterprise,Laura Bergstrom,835200.0,Net 45
+CUST225,Nexus Solutions Corp,Jack Brown,Australia,Asia Pacific,Sydney,Retailer,Priyanka Nair,69400.0,Net 30
+CUST226,Fusion Industries Group,Khalid Al-Otaibi,Saudi Arabia,Middle East,Riyadh,Retailer,James O'Connor,401400.0,Net 45
+CUST227,Precision Technologies S.A.,Jean Martin,France,Europe,Paris,Distributor,Sofia Rossi,977000.0,Net 60
+CUST228,Eastern Systems Trading Co.,Wei Ling Lee,Singapore,Asia Pacific,Singapore,Distributor,Wei Chen,1054600.0,Net 45
+CUST229,Pacific Distributors Holdings,Naoko Sato,Japan,Asia Pacific,Nagoya,Distributor,Marcus Lim,1819100.0,Net 45
+CUST230,National Procurement Agency - Singapore,Mei Ling Wong,Singapore,Asia Pacific,Singapore,Government,Fatima Al Zahra,823900.0,Net 30
+CUST231,Metro Systems Pte Ltd,Aiko Yamamoto,Japan,Asia Pacific,Osaka,Distributor,Ryan Osei,313700.0,Net 60
+CUST232,Alliance Components Inc.,Maria Gonzalez,Mexico,North America,Guadalajara,Distributor,Aisha Rahman,1903400.0,Net 60
+CUST233,NovaTech Electronics Trading FZE,Faisal Al-Harbi,Saudi Arabia,Middle East,Jeddah,Distributor,Daniel Wong,703100.0,Net 60
+CUST234,Nexus Components S.p.A.,Emily Johnson,UK,Europe,London,Enterprise,Grace Tan,482900.0,Net 90
+CUST235,State Electronics Board - Germany,Greta Fischer,Germany,Europe,Munich,Government,Arjun Mehta,944900.0,Net 60
+CUST236,Orion Technologies Pte Ltd,Olivia Smith,Australia,Asia Pacific,Melbourne,Enterprise,Daniel Wong,1150800.0,Net 90
+CUST237,Summit Industries Pvt Ltd,Amit Gupta,India,South Asia,Pune,Retailer,James O'Connor,245200.0,Net 90
+CUST238,Precision Systems Group,Hiroshi Sato,Japan,Asia Pacific,Yokohama,Retailer,Aisha Rahman,162300.0,Net 60
+CUST239,Vertex Distributors LLC,Faisal Al-Ghamdi,Saudi Arabia,Middle East,Riyadh,Distributor,Ryan Osei,1230700.0,Net 45
+CUST240,State Electronics Board - USA,Jennifer Johnson,USA,North America,Chicago,Government,Aisha Rahman,401800.0,Net 30
+CUST241,Quantum Distributors LLC,Jose Hernandez,Mexico,North America,Mexico City,Enterprise,Fatima Al Zahra,1832700.0,Net 45
+CUST242,Alliance Components Group,Dewi Wijaya,Indonesia,Asia Pacific,Jakarta,Retailer,Aisha Rahman,146800.0,Net 45
+CUST243,Horizon Systems Corp,Rizal Wijaya,Indonesia,Asia Pacific,Jakarta,Enterprise,Priyanka Nair,1803400.0,Net 30
+CUST244,Advanced Technologies Corp.,Mason Wilson,Canada,North America,Vancouver,Enterprise,James O'Connor,1251000.0,Net 30
+CUST245,Continental Traders B.V.,Harry Taylor,UK,Europe,Birmingham,Retailer,Arjun Mehta,422800.0,Net 90
+CUST246,National Procurement Agency - South Korea,Min-jun Kim,South Korea,Asia Pacific,Busan,Government,Kenji Fujimoto,884100.0,Net 60
+CUST247,National Procurement Agency - Japan,Kenji Sato,Japan,Asia Pacific,Yokohama,Government,Daniel Wong,866400.0,Net 60
+CUST248,Metro Systems Trading FZE,Fatima Al Marzooqi,UAE,Middle East,Dubai,Retailer,Arjun Mehta,196000.0,Net 45
+CUST249,Horizon Systems Group,Naoko Tanaka,Japan,Asia Pacific,Nagoya,Retailer,Kenji Fujimoto,155300.0,Net 30
+CUST250,Superior Industries Trading Co.,Suda Chaiyasit,Thailand,Asia Pacific,Bangkok,Distributor,Marcus Lim,658500.0,Net 30
+CUST251,Prime Technologies LLC,Sara Al-Ghamdi,Saudi Arabia,Middle East,Riyadh,Retailer,Ryan Osei,435700.0,Net 30
+CUST252,Prime Technologies Corp,Mei Ling Lee,Singapore,Asia Pacific,Singapore,Distributor,Carlos Mendez,1694700.0,Net 30
+CUST253,Apex Distributors Corp,William Brown,Australia,Asia Pacific,Melbourne,Retailer,Laura Bergstrom,248300.0,Net 30
+CUST254,Ministry of Communications - India,Vikram Iyer,India,South Asia,Chennai,Government,Laura Bergstrom,245600.0,Net 90
+CUST255,Meridian Solutions & Sons,Priya Iyer,India,South Asia,Mumbai,Retailer,Kenji Fujimoto,222000.0,Net 60
+CUST256,United Distributors Co.,Robert Brown,USA,North America,New York,Retailer,Carlos Mendez,328700.0,Net 30
+CUST257,Western Components Corp.,Jose Garcia,Mexico,North America,Monterrey,Distributor,Fatima Al Zahra,1072500.0,Net 30
+CUST258,Pacific Traders Corp,Budi Kusuma,Indonesia,Asia Pacific,Jakarta,Distributor,Arjun Mehta,1626300.0,Net 45
+CUST259,Vantage Technologies Trading Co.,Olivia Jones,Australia,Asia Pacific,Brisbane,Enterprise,Carlos Mendez,1996000.0,Net 30
+CUST260,Western Components S.p.A.,Camille Thomas,France,Europe,Marseille,Distributor,Grace Tan,624900.0,Net 90
+CUST261,Alliance Components Group,Suda Chaiyasit,Thailand,Asia Pacific,Bangkok,Distributor,Marcus Lim,1081400.0,Net 45
+CUST262,Vantage Solutions Enterprises,Priya Iyer,India,South Asia,Bengaluru,Retailer,James O'Connor,243900.0,Net 45
+CUST263,Vantage Devices Inc.,Guadalupe Garcia,Mexico,North America,Monterrey,Enterprise,Carlos Mendez,817600.0,Net 30
+CUST264,Dynamic Components Group,William Williams,Australia,Asia Pacific,Melbourne,Enterprise,Sofia Rossi,636800.0,Net 30
+CUST265,Zenith Solutions Holdings,Satoshi Yamamoto,Japan,Asia Pacific,Nagoya,Distributor,Natalie Fischer,411700.0,Net 45
+CUST266,Superior Solutions Group,Naoko Yamamoto,Japan,Asia Pacific,Osaka,Retailer,Fatima Al Zahra,449200.0,Net 60
+CUST267,Apex Traders Holdings,Jack Smith,Australia,Asia Pacific,Sydney,Retailer,Laura Bergstrom,238900.0,Net 45
+CUST268,Pacific Traders Pvt Ltd,Rahim Ahmed,Bangladesh,South Asia,Chittagong,Retailer,Sofia Rossi,273600.0,Net 30
+CUST269,Pacific Traders S.p.A.,Bram de Jong,Netherlands,Europe,Rotterdam,Retailer,Marcus Lim,462600.0,Net 45
+CUST270,NovaTech Electronics Trading Co.,Noah Williams,Australia,Asia Pacific,Brisbane,Distributor,Carlos Mendez,1619700.0,Net 45
+CUST271,Atlas Devices S.p.A.,Harry Williams,UK,Europe,Birmingham,Retailer,Daniel Wong,108700.0,Net 60
+CUST272,United Solutions Inc.,Carlos Hernandez,Mexico,North America,Monterrey,Retailer,Laura Bergstrom,304400.0,Net 30
+CUST273,Capital Distributors Enterprises,Rahim Chowdhury,Bangladesh,South Asia,Dhaka,Enterprise,Grace Tan,1051800.0,Net 30
+CUST274,United Systems Holding,Fatima Al Suwaidi,UAE,Middle East,Dubai,Retailer,Wei Chen,408700.0,Net 45
+CUST275,Orion Industries Group,Joon-ho Choi,South Korea,Asia Pacific,Incheon,Retailer,Grace Tan,375900.0,Net 45
+CUST276,United Components S.A.,Femke van den Berg,Netherlands,Europe,Rotterdam,Retailer,Natalie Fischer,360700.0,Net 45
+CUST277,Precision Networks Group,Ji-woo Lee,South Korea,Asia Pacific,Incheon,Retailer,Aisha Rahman,203200.0,Net 45
+CUST278,Atlas Industries & Sons,Sneha Gupta,India,South Asia,Chennai,Enterprise,Wei Chen,1668400.0,Net 45
+CUST279,Atlas Supply GmbH,Sophie Davies,UK,Europe,London,Retailer,Priyanka Nair,73600.0,Net 60
+CUST280,Prime Electronics Holdings,Naoko Watanabe,Japan,Asia Pacific,Osaka,Retailer,Carlos Mendez,121800.0,Net 45
+CUST281,Western Electronics S.A.,Luc Dubois,France,Europe,Lyon,Enterprise,Marcus Lim,870600.0,Net 90
+CUST282,Pacific Networks PLC,Giulia Esposito,Italy,Europe,Rome,Retailer,Laura Bergstrom,84600.0,Net 45
+CUST283,Global Traders Holding,Noura Al-Ghamdi,Saudi Arabia,Middle East,Riyadh,Retailer,Priyanka Nair,155700.0,Net 90
+CUST284,Horizon Solutions S.A.,Klaus Schneider,Germany,Europe,Frankfurt,Enterprise,Marcus Lim,1711300.0,Net 60
+CUST285,Global Devices GmbH,Jan van den Berg,Netherlands,Europe,Amsterdam,Retailer,Natalie Fischer,476700.0,Net 30
+CUST286,Sterling Electronics Corp,Jack Smith,Australia,Asia Pacific,Sydney,Retailer,Kenji Fujimoto,187100.0,Net 60
+CUST287,Public Works Authority - Bangladesh,Rahim Ahmed,Bangladesh,South Asia,Dhaka,Government,Carlos Mendez,391000.0,Net 30
+CUST288,Continental Traders Co.,Mason Roy,Canada,North America,Toronto,Distributor,James O'Connor,775800.0,Net 90
+CUST289,Elite Electronics S.p.A.,Klaus Muller,Germany,Europe,Hamburg,Distributor,James O'Connor,772100.0,Net 45
+CUST290,Global Supply Pte Ltd,Kai Xuan Tan,Singapore,Asia Pacific,Singapore,Distributor,Carlos Mendez,361100.0,Net 30
+CUST291,Department of Infrastructure - Canada,Mason MacDonald,Canada,North America,Vancouver,Government,Wei Chen,1119600.0,Net 45
+CUST292,Apex Technologies Trading Co.,Hiroshi Yamamoto,Japan,Asia Pacific,Yokohama,Distributor,Aisha Rahman,663300.0,Net 90
+CUST293,Superior Electronics S.p.A.,Sophie Williams,UK,Europe,London,Distributor,Aisha Rahman,1014000.0,Net 30
+CUST294,United Traders Co.,Carlos Hernandez,Mexico,North America,Mexico City,Distributor,Wei Chen,316500.0,Net 45
+CUST295,Capital Distributors Group,Faisal Al-Harbi,Saudi Arabia,Middle East,Riyadh,Distributor,Arjun Mehta,1758500.0,Net 60
+CUST296,United Technologies Corp.,Carlos Martinez,Mexico,North America,Guadalajara,Distributor,Ryan Osei,1543000.0,Net 60
+CUST297,Continental Technologies Corp.,Jennifer Miller,USA,North America,Chicago,Retailer,James O'Connor,476000.0,Net 45
+CUST298,Capital Traders LLC,Aisha Al Mansoori,UAE,Middle East,Abu Dhabi,Retailer,Daniel Wong,401700.0,Net 30
+CUST299,Vantage Components Holdings,Ji-woo Park,South Korea,Asia Pacific,Seoul,Distributor,Wei Chen,833300.0,Net 30
+CUST300,Summit Electronics Pte Ltd,Hye-jin Park,South Korea,Asia Pacific,Seoul,Distributor,Laura Bergstrom,721400.0,Net 45
+CUST301,Prime Systems Industries,Rajesh Gupta,India,South Asia,Pune,Distributor,James O'Connor,1486100.0,Net 45
+CUST302,Pacific Technologies GmbH,Femke de Vries,Netherlands,Europe,Rotterdam,Distributor,Daniel Wong,919000.0,Net 90
+CUST303,NovaTech Distributors Pte Ltd,Rizal Wijaya,Indonesia,Asia Pacific,Jakarta,Retailer,Natalie Fischer,304800.0,Net 30
+CUST304,Prime Industries Trading FZE,Fatima Al Marzooqi,UAE,Middle East,Abu Dhabi,Enterprise,Priyanka Nair,310600.0,Net 45
+CUST305,Advanced Systems S.A.,Giulia Bianchi,Italy,Europe,Rome,Distributor,Daniel Wong,405200.0,Net 30
+CUST306,Precision Distributors Corp,Somchai Saetang,Thailand,Asia Pacific,Bangkok,Retailer,Priyanka Nair,290900.0,Net 30
+CUST307,Eastern Supply Holdings,Yuki Tanaka,Japan,Asia Pacific,Tokyo,Distributor,Ryan Osei,1262300.0,Net 45
+CUST308,Dynamic Traders PLC,Emily Davies,UK,Europe,London,Enterprise,Marcus Lim,1577500.0,Net 45
+CUST309,Vertex Devices LLC,Robert Brown,USA,North America,Chicago,Enterprise,Fatima Al Zahra,524300.0,Net 45
+CUST310,Sterling Electronics Co.,Robert Davis,USA,North America,San Jose,Retailer,Sofia Rossi,280900.0,Net 90
+CUST311,Pacific Solutions Pte Ltd,Somchai Saetang,Thailand,Asia Pacific,Bangkok,Distributor,Marcus Lim,630600.0,Net 45
+CUST312,Ministry of Communications - Germany,Stefan Schneider,Germany,Europe,Munich,Government,James O'Connor,202500.0,Net 90
+CUST313,Global Devices Corp,Wei Ling Ng,Singapore,Asia Pacific,Singapore,Distributor,Priyanka Nair,997800.0,Net 60
+CUST314,Capital Industries Holdings,Budi Santoso,Indonesia,Asia Pacific,Surabaya,Distributor,James O'Connor,577700.0,Net 45
+CUST315,Dynamic Distributors LLC,Liam Wilson,Canada,North America,Montreal,Distributor,Ryan Osei,677000.0,Net 60
+CUST316,United Traders Holding,Aisha Al Marzooqi,UAE,Middle East,Abu Dhabi,Distributor,Wei Chen,839800.0,Net 45
+CUST317,Department of Infrastructure - Australia,William Brown,Australia,Asia Pacific,Sydney,Government,Carlos Mendez,385300.0,Net 30
+CUST318,Fusion Electronics S.p.A.,Harry Johnson,UK,Europe,Birmingham,Enterprise,Laura Bergstrom,448900.0,Net 60
+CUST319,Orion Networks Holding,Abdullah Al-Otaibi,Saudi Arabia,Middle East,Jeddah,Distributor,Grace Tan,452900.0,Net 30
+CUST320,Vantage Solutions Corp.,Ava Martin,Canada,North America,Toronto,Retailer,James O'Connor,137000.0,Net 45
+CUST321,Ministry of Communications - Bangladesh,Karim Chowdhury,Bangladesh,South Asia,Dhaka,Government,Laura Bergstrom,155600.0,Net 60
+CUST322,Elite Industries S.A.,Anke van den Berg,Netherlands,Europe,Rotterdam,Enterprise,Wei Chen,1365000.0,Net 30
+CUST323,Precision Traders Enterprises,Anita Kumar,India,South Asia,Chennai,Retailer,Daniel Wong,179300.0,Net 30
+CUST324,Federal Technology Bureau - Thailand,Chai Srisuk,Thailand,Asia Pacific,Chiang Mai,Government,Wei Chen,407700.0,Net 90
+CUST325,Federal Technology Bureau - France,Camille Martin,France,Europe,Lyon,Government,Natalie Fischer,465200.0,Net 45
+CUST326,Pinnacle Solutions Co.,Robert Williams,USA,North America,Dallas,Enterprise,Marcus Lim,1426800.0,Net 30
+CUST327,Horizon Components Trading Co.,Aiko Yamamoto,Japan,Asia Pacific,Nagoya,Distributor,Arjun Mehta,1780100.0,Net 45
+CUST328,Metro Components Corp,Kenji Suzuki,Japan,Asia Pacific,Yokohama,Retailer,Daniel Wong,391600.0,Net 45
+CUST329,Alliance Systems Trading FZE,Ahmed Al Falasi,UAE,Middle East,Dubai,Enterprise,Grace Tan,1536800.0,Net 45
+CUST330,Alliance Traders Corp,Seo-yeon Kim,South Korea,Asia Pacific,Busan,Distributor,Priyanka Nair,1123500.0,Net 90
+CUST331,Eastern Systems Group,Sara Al-Otaibi,Saudi Arabia,Middle East,Riyadh,Enterprise,Carlos Mendez,1479500.0,Net 45
+CUST332,Sterling Technologies PLC,Harry Davies,UK,Europe,London,Distributor,Laura Bergstrom,1239700.0,Net 30
+CUST333,Quantum Components Corp.,Emma Martin,Canada,North America,Toronto,Distributor,Carlos Mendez,667600.0,Net 60
+CUST334,Meridian Electronics Trading Co.,Naoko Watanabe,Japan,Asia Pacific,Tokyo,Distributor,Sofia Rossi,654600.0,Net 60
+CUST335,Dynamic Technologies Group,Noura Al-Harbi,Saudi Arabia,Middle East,Jeddah,Distributor,Ryan Osei,803900.0,Net 30
+CUST336,Public Works Authority - Germany,Stefan Fischer,Germany,Europe,Berlin,Government,Wei Chen,1101900.0,Net 30
+CUST337,Vantage Solutions Corp,Chai Srisuk,Thailand,Asia Pacific,Chiang Mai,Enterprise,James O'Connor,1230600.0,Net 30
+CUST338,Sterling Industries Group,Charlotte Smith,Australia,Asia Pacific,Melbourne,Enterprise,Priyanka Nair,1547600.0,Net 45
+CUST339,Sterling Supply LLC,Ashley Davis,USA,North America,San Jose,Retailer,Sofia Rossi,206000.0,Net 45
+CUST340,Capital Supply LLC,Sara Al-Harbi,Saudi Arabia,Middle East,Jeddah,Distributor,Wei Chen,993100.0,Net 45
+CUST341,Elite Traders Trading Co.,Anong Srisuk,Thailand,Asia Pacific,Bangkok,Retailer,Kenji Fujimoto,106500.0,Net 90
+CUST342,Apex Distributors Co.,Carlos Hernandez,Mexico,North America,Guadalajara,Retailer,James O'Connor,127100.0,Net 60
+CUST343,Orion Networks Holdings,Suda Srisuk,Thailand,Asia Pacific,Chiang Mai,Retailer,Daniel Wong,422300.0,Net 30
+CUST344,Horizon Industries Trading FZE,Aisha Al Marzooqi,UAE,Middle East,Abu Dhabi,Distributor,Marcus Lim,1294200.0,Net 30
+CUST345,Precision Solutions Industries,Vikram Patel,India,South Asia,Mumbai,Retailer,Fatima Al Zahra,201900.0,Net 45
+CUST346,Eastern Systems Inc.,Luis Gonzalez,Mexico,North America,Monterrey,Retailer,Laura Bergstrom,411300.0,Net 30
+CUST347,Public Works Authority - Thailand,Suda Chaiyasit,Thailand,Asia Pacific,Bangkok,Government,Arjun Mehta,371200.0,Net 45
+CUST348,Prime Distributors Co.,Michael Miller,USA,North America,Dallas,Enterprise,Natalie Fischer,1959300.0,Net 60
+CUST349,Dynamic Networks Trading FZE,Noura Al-Harbi,Saudi Arabia,Middle East,Riyadh,Retailer,Grace Tan,205200.0,Net 30
+CUST350,Capital Components Holding,Abdullah Al-Harbi,Saudi Arabia,Middle East,Jeddah,Retailer,Grace Tan,201800.0,Net 45
+CUST351,Atlas Industries S.A.,Hans Fischer,Germany,Europe,Berlin,Enterprise,Arjun Mehta,830300.0,Net 60
+CUST352,Precision Industries Corp,Jun Wei Wong,Singapore,Asia Pacific,Singapore,Distributor,Daniel Wong,507600.0,Net 45
+CUST353,Horizon Technologies Trading Co.,Yuki Tanaka,Japan,Asia Pacific,Nagoya,Enterprise,Aisha Rahman,488900.0,Net 30
+CUST354,Meridian Networks Corp,Chai Chaiyasit,Thailand,Asia Pacific,Chiang Mai,Enterprise,Grace Tan,1401800.0,Net 45
+CUST355,Sterling Distributors PLC,Femke Jansen,Netherlands,Europe,Amsterdam,Retailer,Laura Bergstrom,443800.0,Net 30
+CUST356,Zenith Supply Trading Co.,Somchai Saetang,Thailand,Asia Pacific,Chiang Mai,Distributor,Daniel Wong,1643900.0,Net 90
+CUST357,Capital Traders Group,Jun Wei Tan,Singapore,Asia Pacific,Singapore,Distributor,Priyanka Nair,539900.0,Net 30
+CUST358,Dynamic Supply Group,Joon-ho Lee,South Korea,Asia Pacific,Busan,Retailer,Grace Tan,295500.0,Net 45
+CUST359,Zenith Components PLC,Femke de Vries,Netherlands,Europe,Rotterdam,Distributor,Carlos Mendez,479500.0,Net 45
+CUST360,Western Industries Group,Satoshi Yamamoto,Japan,Asia Pacific,Nagoya,Enterprise,Daniel Wong,377000.0,Net 90
+CUST361,United Electronics Corp,Suda Boonmee,Thailand,Asia Pacific,Bangkok,Distributor,Laura Bergstrom,1415900.0,Net 30
+CUST362,Alliance Technologies Co.,Liam Roy,Canada,North America,Montreal,Distributor,Arjun Mehta,1209800.0,Net 30
+CUST363,Public Works Authority - Singapore,Hui Min Wong,Singapore,Asia Pacific,Singapore,Government,Fatima Al Zahra,190200.0,Net 30
+CUST364,Nexus Networks Group,Abdullah Al-Otaibi,Saudi Arabia,Middle East,Jeddah,Enterprise,Carlos Mendez,359400.0,Net 30
+CUST365,United Distributors Holding,Noura Al-Harbi,Saudi Arabia,Middle East,Jeddah,Distributor,James O'Connor,1982600.0,Net 30
+CUST366,Vantage Supply Holdings,Joon-ho Kim,South Korea,Asia Pacific,Seoul,Distributor,James O'Connor,351000.0,Net 45
+CUST367,Vantage Systems Industries,Anita Reddy,India,South Asia,Delhi,Distributor,Grace Tan,1055700.0,Net 30
+CUST368,Western Technologies Inc.,David Davis,USA,North America,New York,Retailer,Carlos Mendez,277100.0,Net 30
+CUST369,Fusion Technologies Enterprises,Nasrin Islam,Bangladesh,South Asia,Chittagong,Distributor,Marcus Lim,499400.0,Net 60
+CUST370,Superior Networks Group,Charlotte Williams,Australia,Asia Pacific,Brisbane,Retailer,Wei Chen,126100.0,Net 30
+CUST371,State Electronics Board - Japan,Hiroshi Sato,Japan,Asia Pacific,Yokohama,Government,James O'Connor,487000.0,Net 30
+CUST372,Continental Distributors Pte Ltd,Hiroshi Tanaka,Japan,Asia Pacific,Nagoya,Distributor,Marcus Lim,1594800.0,Net 30
+CUST373,Advanced Electronics S.A.,Alessandro Ferrari,Italy,Europe,Rome,Enterprise,Priyanka Nair,1162000.0,Net 90
+CUST374,State Electronics Board - Thailand,Chai Saetang,Thailand,Asia Pacific,Bangkok,Government,Daniel Wong,801700.0,Net 30
+CUST375,Atlas Devices Co.,David Davis,USA,North America,Atlanta,Distributor,Wei Chen,1974800.0,Net 60
+CUST376,Eastern Devices Pte Ltd,Jack Taylor,Australia,Asia Pacific,Sydney,Enterprise,Sofia Rossi,1605600.0,Net 60
+CUST377,Western Components Group,Takashi Suzuki,Japan,Asia Pacific,Osaka,Retailer,Ryan Osei,245500.0,Net 30
+CUST378,Ministry of Communications - Japan,Kenji Yamamoto,Japan,Asia Pacific,Osaka,Government,Laura Bergstrom,591100.0,Net 90
+CUST379,Atlas Components PLC,Sophie Taylor,UK,Europe,Manchester,Retailer,Natalie Fischer,328400.0,Net 30
+CUST380,United Devices PLC,Anke van den Berg,Netherlands,Europe,Rotterdam,Retailer,Ryan Osei,349400.0,Net 30
+CUST381,Horizon Solutions GmbH,Giulia Rossi,Italy,Europe,Turin,Retailer,Ryan Osei,275300.0,Net 60
+CUST382,Capital Traders Inc.,Robert Miller,USA,North America,San Jose,Enterprise,Daniel Wong,1396300.0,Net 60
+CUST383,United Networks LLC,Emma Gagnon,Canada,North America,Toronto,Enterprise,Arjun Mehta,340000.0,Net 45
+CUST384,Orion Devices Inc.,Ashley Johnson,USA,North America,San Jose,Retailer,Wei Chen,243300.0,Net 30
+CUST385,Vantage Components Inc.,Carlos Martinez,Mexico,North America,Mexico City,Enterprise,Laura Bergstrom,774200.0,Net 45
+CUST386,Summit Electronics Trading Co.,Ji-woo Choi,South Korea,Asia Pacific,Incheon,Distributor,Wei Chen,519600.0,Net 60
+CUST387,Quantum Technologies Pvt Ltd,Fatema Islam,Bangladesh,South Asia,Dhaka,Distributor,Carlos Mendez,469200.0,Net 30
+CUST388,Continental Networks Trading Co.,Olivia Smith,Australia,Asia Pacific,Melbourne,Distributor,Priyanka Nair,1325400.0,Net 30
+CUST389,Fusion Networks Industries,Priya Kumar,India,South Asia,Pune,Distributor,Kenji Fujimoto,1190100.0,Net 30
+CUST390,Meridian Traders PLC,Harry Williams,UK,Europe,Manchester,Distributor,Natalie Fischer,731100.0,Net 30
+CUST391,Ministry of Communications - Netherlands,Willem de Jong,Netherlands,Europe,Amsterdam,Government,Grace Tan,618000.0,Net 60
+CUST392,Precision Networks Group,Hye-jin Choi,South Korea,Asia Pacific,Incheon,Distributor,Wei Chen,1136800.0,Net 45
+CUST393,NovaTech Components S.A.,Camille Dubois,France,Europe,Paris,Retailer,Laura Bergstrom,137800.0,Net 90
+CUST394,NovaTech Solutions S.A.,Ingrid Muller,Germany,Europe,Frankfurt,Distributor,Laura Bergstrom,1408600.0,Net 30
+CUST395,Orion Electronics Pte Ltd,Wei Ling Ng,Singapore,Asia Pacific,Singapore,Enterprise,Carlos Mendez,1627600.0,Net 60
+CUST396,State Electronics Board - Bangladesh,Nasrin Islam,Bangladesh,South Asia,Dhaka,Government,Marcus Lim,970600.0,Net 30
+CUST397,Summit Industries LLC,Liam Roy,Canada,North America,Toronto,Retailer,Daniel Wong,321100.0,Net 30
+CUST398,Fusion Industries PLC,Giulia Rossi,Italy,Europe,Rome,Enterprise,Arjun Mehta,1169800.0,Net 30
+CUST399,Superior Industries Corp,Kai Xuan Wong,Singapore,Asia Pacific,Singapore,Distributor,Kenji Fujimoto,403700.0,Net 30
+CUST400,Precision Supply Corp,Jun Wei Ng,Singapore,Asia Pacific,Singapore,Enterprise,Aisha Rahman,789300.0,Net 45
+CUST401,Zenith Components PLC,Jan de Vries,Netherlands,Europe,Rotterdam,Distributor,Grace Tan,458600.0,Net 90
+CUST402,Department of Infrastructure - Thailand,Somchai Chaiyasit,Thailand,Asia Pacific,Chiang Mai,Government,Sofia Rossi,1160200.0,Net 45
+CUST403,Advanced Supply S.A.,Pierre Bernard,France,Europe,Lyon,Distributor,Aisha Rahman,529600.0,Net 30
+CUST404,Nexus Components Holdings,Noah Jones,Australia,Asia Pacific,Sydney,Retailer,Ryan Osei,118300.0,Net 30
+CUST405,Metro Components & Sons,Vikram Gupta,India,South Asia,Bengaluru,Enterprise,Daniel Wong,1812300.0,Net 30
+CUST406,Prime Distributors Trading Co.,Noah Jones,Australia,Asia Pacific,Melbourne,Distributor,Ryan Osei,1904700.0,Net 45
+CUST407,United Systems Trading FZE,Noura Al-Ghamdi,Saudi Arabia,Middle East,Riyadh,Distributor,Ryan Osei,1601900.0,Net 60
+CUST408,Horizon Industries Group,Hui Min Lee,Singapore,Asia Pacific,Singapore,Distributor,Grace Tan,309200.0,Net 90
+CUST409,NovaTech Systems Pvt Ltd,Hasan Rahman,Bangladesh,South Asia,Chittagong,Distributor,Laura Bergstrom,302300.0,Net 30
+CUST410,Eastern Solutions Enterprises,Sneha Iyer,India,South Asia,Bengaluru,Retailer,Fatima Al Zahra,220100.0,Net 45
+CUST411,Sterling Systems B.V.,Ingrid Fischer,Germany,Europe,Hamburg,Distributor,Sofia Rossi,543800.0,Net 45
+CUST412,United Supply Group,Somchai Srisuk,Thailand,Asia Pacific,Bangkok,Distributor,Wei Chen,331300.0,Net 45
+CUST413,Zenith Networks Co.,David Davis,USA,North America,Atlanta,Distributor,Marcus Lim,1088900.0,Net 45
+CUST414,Superior Industries Pvt Ltd,Priya Kumar,India,South Asia,Mumbai,Enterprise,Kenji Fujimoto,1903200.0,Net 45
+CUST415,Capital Traders LLC,Ava MacDonald,Canada,North America,Toronto,Distributor,Wei Chen,850500.0,Net 45
+CUST416,Meridian Technologies Holdings,Jack Brown,Australia,Asia Pacific,Sydney,Distributor,Arjun Mehta,1423900.0,Net 30
+CUST417,Meridian Supply GmbH,Pierre Thomas,France,Europe,Marseille,Distributor,Marcus Lim,1408800.0,Net 60
+CUST418,Continental Technologies Pvt Ltd,Amit Patel,India,South Asia,Delhi,Retailer,Priyanka Nair,163000.0,Net 30
+CUST419,Precision Industries Pvt Ltd,Anita Sharma,India,South Asia,Mumbai,Enterprise,Fatima Al Zahra,1405700.0,Net 45
+CUST420,Prime Electronics Trading FZE,Sara Al-Harbi,Saudi Arabia,Middle East,Riyadh,Distributor,Carlos Mendez,661000.0,Net 45
+CUST421,Precision Distributors Corp.,Mason Martin,Canada,North America,Vancouver,Distributor,Grace Tan,507400.0,Net 45
+CUST422,Zenith Industries Industries,Priya Kumar,India,South Asia,Chennai,Enterprise,Wei Chen,1492400.0,Net 90
+CUST423,Dynamic Solutions Pte Ltd,Kai Xuan Lim,Singapore,Asia Pacific,Singapore,Enterprise,Marcus Lim,492800.0,Net 60
+CUST424,Atlas Supply Inc.,Ashley Miller,USA,North America,San Jose,Distributor,Fatima Al Zahra,1994700.0,Net 60
+CUST425,Alliance Systems PLC,Pierre Robert,France,Europe,Lyon,Enterprise,Aisha Rahman,611900.0,Net 45
+CUST426,National Procurement Agency - USA,David Davis,USA,North America,Atlanta,Government,Carlos Mendez,753600.0,Net 60
+CUST427,Horizon Industries GmbH,Marie Martin,France,Europe,Marseille,Distributor,Marcus Lim,999300.0,Net 45
+CUST428,Atlas Systems S.A.,Ingrid Schneider,Germany,Europe,Berlin,Enterprise,James O'Connor,514900.0,Net 60
+CUST429,Apex Networks Inc.,Luis Garcia,Mexico,North America,Guadalajara,Enterprise,Ryan Osei,347300.0,Net 45
+CUST430,Meridian Systems Trading FZE,Fatima Al Marzooqi,UAE,Middle East,Abu Dhabi,Retailer,Priyanka Nair,330200.0,Net 90
+CUST431,Nexus Industries Trading FZE,Khalid Al-Ghamdi,Saudi Arabia,Middle East,Riyadh,Distributor,Daniel Wong,1671500.0,Net 90
+CUST432,Zenith Systems Trading Co.,Chai Boonmee,Thailand,Asia Pacific,Bangkok,Distributor,Wei Chen,1731400.0,Net 60
+CUST433,Alliance Solutions Corp,Jack Williams,Australia,Asia Pacific,Sydney,Enterprise,Ryan Osei,1120600.0,Net 30
+CUST434,Federal Technology Bureau - USA,Michael Brown,USA,North America,San Jose,Government,Arjun Mehta,955200.0,Net 30
+CUST435,Western Devices Holdings,Jun Wei Lim,Singapore,Asia Pacific,Singapore,Retailer,Kenji Fujimoto,352800.0,Net 60
+CUST436,Orion Technologies Group,Khalid Al-Ghamdi,Saudi Arabia,Middle East,Jeddah,Retailer,Fatima Al Zahra,375900.0,Net 30
+CUST437,Atlas Solutions S.p.A.,Stefan Muller,Germany,Europe,Berlin,Retailer,Priyanka Nair,271700.0,Net 60
+CUST438,United Networks Corp.,Mason Roy,Canada,North America,Montreal,Retailer,Carlos Mendez,335000.0,Net 45
+CUST439,NovaTech Distributors S.p.A.,Femke de Jong,Netherlands,Europe,Amsterdam,Distributor,James O'Connor,1669400.0,Net 45
+CUST440,Sterling Components PLC,Stefan Fischer,Germany,Europe,Berlin,Distributor,Grace Tan,976400.0,Net 90
+CUST441,Western Devices Inc.,Maria Martinez,Mexico,North America,Guadalajara,Enterprise,Aisha Rahman,1670200.0,Net 45
+CUST442,Prime Supply Holdings,Malee Saetang,Thailand,Asia Pacific,Chiang Mai,Distributor,Kenji Fujimoto,1306400.0,Net 45
+CUST443,Western Networks Pte Ltd,Olivia Brown,Australia,Asia Pacific,Melbourne,Enterprise,Wei Chen,582000.0,Net 45
+CUST444,Vertex Industries B.V.,Giulia Ferrari,Italy,Europe,Turin,Distributor,Fatima Al Zahra,342000.0,Net 30
+CUST445,Global Electronics S.A.,Alessandro Ferrari,Italy,Europe,Milan,Distributor,Kenji Fujimoto,916700.0,Net 60
+CUST446,United Technologies Enterprises,Rahim Islam,Bangladesh,South Asia,Dhaka,Distributor,Priyanka Nair,1229400.0,Net 30
+CUST447,Pinnacle Distributors Group,Mohammed Al Mansoori,UAE,Middle East,Dubai,Retailer,Fatima Al Zahra,427900.0,Net 90
+CUST448,Ministry of Communications - USA,Robert Davis,USA,North America,Dallas,Government,Carlos Mendez,240200.0,Net 60
+CUST449,Eastern Systems B.V.,Marie Thomas,France,Europe,Marseille,Distributor,Grace Tan,1660400.0,Net 30
+CUST450,Continental Traders B.V.,Jan Jansen,Netherlands,Europe,Rotterdam,Enterprise,Laura Bergstrom,1767100.0,Net 60
+CUST451,Horizon Supply Co.,David Williams,USA,North America,Chicago,Retailer,Arjun Mehta,117800.0,Net 45
+CUST452,Zenith Supply & Sons,Amit Sharma,India,South Asia,Chennai,Enterprise,James O'Connor,1747700.0,Net 30
+CUST453,Western Industries Corp,Budi Wijaya,Indonesia,Asia Pacific,Jakarta,Distributor,Wei Chen,1985500.0,Net 90
+CUST454,Meridian Traders GmbH,Hans Schneider,Germany,Europe,Berlin,Enterprise,Laura Bergstrom,1535600.0,Net 30
+CUST455,Sterling Supply LLC,Guadalupe Lopez,Mexico,North America,Guadalajara,Enterprise,Aisha Rahman,1634100.0,Net 30
+CUST456,Zenith Distributors LLC,Mason Gagnon,Canada,North America,Toronto,Distributor,Grace Tan,1990500.0,Net 45
+CUST457,Elite Systems B.V.,Oliver Smith,UK,Europe,Manchester,Distributor,Natalie Fischer,1329300.0,Net 45
+CUST458,Quantum Technologies B.V.,Willem Jansen,Netherlands,Europe,Rotterdam,Enterprise,Natalie Fischer,823400.0,Net 45
+CUST459,National Procurement Agency - France,Jean Bernard,France,Europe,Marseille,Government,Grace Tan,1021300.0,Net 60
+CUST460,Horizon Supply Enterprises,Hasan Rahman,Bangladesh,South Asia,Chittagong,Distributor,James O'Connor,1344600.0,Net 45
+CUST461,Apex Electronics Group,Hye-jin Choi,South Korea,Asia Pacific,Busan,Enterprise,Sofia Rossi,1288000.0,Net 45
+CUST462,State Electronics Board - Thailand,Malee Boonmee,Thailand,Asia Pacific,Chiang Mai,Government,Laura Bergstrom,379000.0,Net 30
+CUST463,Nexus Devices Group,Suda Saetang,Thailand,Asia Pacific,Bangkok,Enterprise,Marcus Lim,1585800.0,Net 30
+CUST464,State Electronics Board - Indonesia,Budi Santoso,Indonesia,Asia Pacific,Jakarta,Government,Kenji Fujimoto,189800.0,Net 30
+CUST465,Vantage Components B.V.,James Johnson,UK,Europe,Manchester,Enterprise,Wei Chen,1871300.0,Net 30
+CUST466,Prime Devices Trading FZE,Noura Al-Otaibi,Saudi Arabia,Middle East,Riyadh,Retailer,Sofia Rossi,196600.0,Net 45
+CUST467,Advanced Electronics Corp.,Ava MacDonald,Canada,North America,Montreal,Distributor,Marcus Lim,517200.0,Net 30
+CUST468,Quantum Solutions Group,Naoko Suzuki,Japan,Asia Pacific,Yokohama,Distributor,Arjun Mehta,1052000.0,Net 30
+CUST469,Precision Systems & Sons,Amit Kumar,India,South Asia,Mumbai,Enterprise,Carlos Mendez,372200.0,Net 30
+CUST470,Western Components S.A.,Hans Muller,Germany,Europe,Berlin,Enterprise,Wei Chen,1463900.0,Net 90
+CUST471,Eastern Solutions Co.,Mason Roy,Canada,North America,Toronto,Distributor,Wei Chen,1834600.0,Net 90
+CUST472,Eastern Traders Pte Ltd,Wei Ling Tan,Singapore,Asia Pacific,Singapore,Enterprise,Natalie Fischer,1723300.0,Net 45
+CUST473,Orion Electronics Corp,Kai Xuan Wong,Singapore,Asia Pacific,Singapore,Enterprise,James O'Connor,516500.0,Net 90
+CUST474,Metro Distributors Holdings,Budi Wijaya,Indonesia,Asia Pacific,Jakarta,Retailer,Carlos Mendez,106800.0,Net 60
+CUST475,Capital Traders Corp.,Ashley Davis,USA,North America,Chicago,Retailer,Kenji Fujimoto,416000.0,Net 45
+CUST476,Alliance Industries PLC,Ingrid Schneider,Germany,Europe,Munich,Retailer,Daniel Wong,465900.0,Net 30
+CUST477,Summit Systems B.V.,Bram de Vries,Netherlands,Europe,Amsterdam,Distributor,Marcus Lim,1083100.0,Net 60
+CUST478,Western Industries B.V.,Stefan Schmidt,Germany,Europe,Hamburg,Distributor,Natalie Fischer,1148300.0,Net 60
+CUST479,Vertex Industries Group,William Williams,Australia,Asia Pacific,Brisbane,Distributor,Wei Chen,841000.0,Net 45
+CUST480,Superior Systems LLC,Mason MacDonald,Canada,North America,Montreal,Distributor,Sofia Rossi,1820300.0,Net 60
+CUST481,Orion Networks Co.,Emma Wilson,Canada,North America,Montreal,Retailer,Ryan Osei,340200.0,Net 45
+CUST482,Precision Supply Enterprises,Hasan Ahmed,Bangladesh,South Asia,Chittagong,Retailer,Natalie Fischer,179700.0,Net 60
+CUST483,Vantage Electronics S.p.A.,Sophie Johnson,UK,Europe,Manchester,Distributor,Marcus Lim,807900.0,Net 90
+CUST484,Orion Distributors S.A.,Camille Bernard,France,Europe,Marseille,Enterprise,Marcus Lim,1815000.0,Net 30
+CUST485,Prime Technologies S.A.,Stefan Weber,Germany,Europe,Frankfurt,Distributor,Ryan Osei,323200.0,Net 60
+CUST486,National Procurement Agency - Japan,Aiko Tanaka,Japan,Asia Pacific,Yokohama,Government,James O'Connor,455000.0,Net 45
+CUST487,Department of Infrastructure - Australia,William Brown,Australia,Asia Pacific,Melbourne,Government,Wei Chen,709800.0,Net 45
+CUST488,Metro Solutions Co.,Liam Gagnon,Canada,North America,Montreal,Distributor,Carlos Mendez,552000.0,Net 60
+CUST489,Dynamic Electronics Pvt Ltd,Sneha Patel,India,South Asia,Pune,Retailer,Laura Bergstrom,91400.0,Net 30
+CUST490,Elite Devices Trading Co.,Naoko Sato,Japan,Asia Pacific,Tokyo,Distributor,Arjun Mehta,1686000.0,Net 45
+CUST491,Orion Electronics Corp,Rizal Wijaya,Indonesia,Asia Pacific,Surabaya,Retailer,Daniel Wong,452500.0,Net 30
+CUST492,Alliance Systems Holdings,Agus Kusuma,Indonesia,Asia Pacific,Surabaya,Retailer,James O'Connor,420600.0,Net 45
+CUST493,Orion Supply Co.,David Davis,USA,North America,Dallas,Distributor,Aisha Rahman,1827900.0,Net 45
+CUST494,Western Solutions LLC,Ava Roy,Canada,North America,Toronto,Retailer,Arjun Mehta,298900.0,Net 60
+CUST495,Prime Distributors Co.,Mason Roy,Canada,North America,Vancouver,Distributor,Wei Chen,1680800.0,Net 30
+CUST496,Apex Supply Group,Aisha Al Marzooqi,UAE,Middle East,Dubai,Distributor,James O'Connor,952900.0,Net 45
+CUST497,Advanced Technologies Holding,Noura Al-Otaibi,Saudi Arabia,Middle East,Riyadh,Retailer,Kenji Fujimoto,349800.0,Net 30
+CUST498,Capital Industries S.p.A.,Marco Bianchi,Italy,Europe,Milan,Distributor,Daniel Wong,1981000.0,Net 60
+CUST499,Orion Industries Group,Chai Boonmee,Thailand,Asia Pacific,Bangkok,Retailer,Natalie Fischer,151600.0,Net 90
+CUST500,Precision Distributors Corp,Hui Min Wong,Singapore,Asia Pacific,Singapore,Retailer,Ryan Osei,225500.0,Net 90

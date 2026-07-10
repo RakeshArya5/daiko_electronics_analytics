@@ -1,0 +1,13 @@
+factory_id,factory_name,country,city,region,capacity_units_per_month,operational_since,specialization,headcount,certification
+FACT01,TechNova Chennai Plant,India,Chennai,South Asia,35825,2017-12-16,Semiconductors,4764,"ISO 14001, ISO 45001"
+FACT02,TechNova Pune Plant,India,Pune,South Asia,10204,2011-06-13,Semiconductors,2459,ISO 14001
+FACT03,TechNova Bengaluru Plant,India,Bengaluru,South Asia,33885,2014-02-21,Networking Equipment,1335,ISO 45001
+FACT04,TechNova Shenzhen Plant,China,Shenzhen,Asia Pacific,45056,2014-08-20,Semiconductors,1073,"ISO 14001, ISO 45001"
+FACT05,TechNova Suzhou Plant,China,Suzhou,Asia Pacific,8203,2013-01-21,Power Systems,4755,"ISO 45001, ISO 9001"
+FACT06,TechNova Dongguan Plant,China,Dongguan,Asia Pacific,7244,2019-01-09,Semiconductors,2500,"ISO 14001, ISO 9001"
+FACT07,TechNova Ningbo Plant,China,Ningbo,Asia Pacific,37786,2012-01-12,Power Systems,951,ISO 9001
+FACT08,TechNova Hanoi Plant,Vietnam,Hanoi,Asia Pacific,8083,2009-08-02,Semiconductors,1053,ISO 9001
+FACT09,TechNova Ho Chi Minh City Plant,Vietnam,Ho Chi Minh City,Asia Pacific,26584,2012-05-07,Power Systems,3932,"ISO 45001, ISO 9001"
+FACT10,TechNova Bac Ninh Plant,Vietnam,Bac Ninh,Asia Pacific,13521,2014-04-04,Semiconductors,2483,ISO 9001
+FACT11,TechNova Penang Plant,Malaysia,Penang,Asia Pacific,38541,2007-01-10,Semiconductors,1529,"ISO 14001, ISO 45001, ISO 9001"
+FACT12,TechNova Johor Bahru Plant,Malaysia,Johor Bahru,Asia Pacific,34063,2009-03-26,Industrial Components,677,ISO 45001

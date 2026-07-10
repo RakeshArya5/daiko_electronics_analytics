@@ -1,0 +1,81 @@
+supplier_id,supplier_name,country,city,category,lead_time_days,reliability_score,payment_terms,contract_start,preferred_status
+SUPP001,United Logistics,Germany,Hamburg,Chemicals,48,0.65,Net 45,2018-04-30,No
+SUPP002,Summit Materials,Germany,Hamburg,Electronic Components,39,0.84,Net 30,2019-08-23,Yes
+SUPP003,Continental Resources,South Korea,Incheon,Packaging,32,0.99,Net 45,2020-10-12,No
+SUPP004,Continental Logistics,Japan,Nagoya,Logistics Services,56,0.97,Net 30,2017-01-24,Yes
+SUPP005,Formosa Packaging,India,Chennai,Raw Materials,33,0.93,Net 60,2017-02-08,Yes
+SUPP006,Formosa Supply Co.,China,Unknown,Raw Materials,18,0.95,Net 45,2018-05-23,No
+SUPP007,Sinotek Logistics,Japan,Tokyo,Packaging,32,0.84,Net 30,2017-04-13,No
+SUPP008,Hokuto Components,Japan,Nagoya,Electronic Components,31,0.93,Net 30,2021-01-22,No
+SUPP009,Silverline Manufacturing,Germany,Frankfurt,Raw Materials,64,0.86,Net 45,2020-03-21,Yes
+SUPP010,Prime Industries,China,Unknown,Raw Materials,17,0.82,Net 60,2019-04-14,No
+SUPP011,Daehan Logistics,South Korea,Seoul,Raw Materials,49,0.94,Net 30,2018-05-03,Yes
+SUPP012,Genta Manufacturing,India,Pune,Chemicals,37,0.94,Net 30,2016-05-20,No
+SUPP013,Meridian Resources,Japan,Tokyo,Raw Materials,31,0.87,Net 60,2018-09-19,No
+SUPP014,Meridian Logistics,China,Unknown,Electronic Components,7,0.9,Net 45,2022-10-11,No
+SUPP015,Summit Chemicals,Germany,Frankfurt,Packaging,49,0.6,Net 30,2022-11-20,Yes
+SUPP016,Prime Resources,South Korea,Busan,Electronic Components,46,0.6,Net 30,2018-12-31,Yes
+SUPP017,Ironclad Industries,South Korea,Seoul,Raw Materials,23,0.98,Net 30,2022-12-15,Yes
+SUPP018,Ironclad Logistics,China,Unknown,Chemicals,21,0.94,Net 45,2018-11-17,No
+SUPP019,Silverline Chemicals,Japan,Tokyo,Raw Materials,42,0.65,Net 30,2022-10-24,No
+SUPP020,Formosa Chemicals,Japan,Tokyo,Chemicals,38,0.67,Net 60,2018-03-18,Yes
+SUPP021,Prime Industries,China,Unknown,Chemicals,9,0.98,Net 30,2017-01-30,No
+SUPP022,Daehan Components,China,Unknown,Electronic Components,28,0.82,Net 30,2017-04-12,No
+SUPP023,Summit Supply Co.,Taiwan,Hsinchu,Electronic Components,25,0.91,Net 45,2018-11-29,No
+SUPP024,Daehan Resources,China,Unknown,Electronic Components,19,0.96,Net 60,2015-10-10,No
+SUPP025,Rhein Components,China,Unknown,Electronic Components,18,0.87,Net 60,2016-01-14,No
+SUPP026,Daehan Logistics,South Korea,Busan,Chemicals,34,0.96,Net 30,2015-07-17,Yes
+SUPP027,Sinotek Resources,India,Bengaluru,Chemicals,15,0.84,Net 45,2023-05-21,Yes
+SUPP028,Silverline Logistics,China,Unknown,Electronic Components,27,0.95,Net 45,2023-05-30,Yes
+SUPP029,Hokuto Chemicals,South Korea,Incheon,Packaging,59,0.85,Net 30,2016-07-09,No
+SUPP030,Crestpoint Resources,China,Unknown,Logistics Services,7,0.95,Net 30,2015-12-22,No
+SUPP031,Rhein Components,China,Unknown,Logistics Services,16,0.94,Net 30,2019-04-13,No
+SUPP032,United Packaging,China,Unknown,Electronic Components,21,0.9,Net 30,2017-11-06,Yes
+SUPP033,Silverline Resources,Taiwan,Kaohsiung,Electronic Components,13,0.93,Net 60,2022-05-10,No
+SUPP034,Ironclad Components,China,Unknown,Electronic Components,28,0.92,Net 30,2016-01-14,Yes
+SUPP035,Ironclad Packaging,China,Unknown,Logistics Services,24,0.96,Net 60,2016-11-10,Yes
+SUPP036,Ganges Components,Japan,Nagoya,Raw Materials,60,0.62,Net 45,2021-12-28,No
+SUPP037,Prime Materials,Taiwan,Kaohsiung,Electronic Components,24,0.92,Net 45,2019-11-15,No
+SUPP038,Rhein Materials,China,Unknown,Electronic Components,13,0.94,Net 45,2017-06-17,No
+SUPP039,Summit Supply Co.,Japan,Yokohama,Electronic Components,43,0.9,Net 30,2015-03-17,No
+SUPP040,Sinotek Industries,China,Unknown,Electronic Components,24,0.94,Net 30,2015-08-19,Yes
+SUPP041,Rhein Materials,Japan,Yokohama,Logistics Services,58,0.9,Net 30,2019-10-06,Yes
+SUPP042,Crestpoint Industries,South Korea,Seoul,Raw Materials,22,0.96,Net 45,2017-08-19,Yes
+SUPP043,Rhein Industries,South Korea,Busan,Electronic Components,45,0.98,Net 30,2021-06-07,No
+SUPP044,Daehan Materials,Japan,Tokyo,Raw Materials,48,0.97,Net 45,2022-08-05,No
+SUPP045,Nova Resources,Japan,Nagoya,Raw Materials,21,0.95,Net 30,2021-03-12,No
+SUPP046,Daehan Manufacturing,China,Unknown,Electronic Components,10,0.92,Net 30,2023-11-04,No
+SUPP047,Rhein Components,Japan,Yokohama,Electronic Components,32,0.9,Net 30,2020-10-17,Yes
+SUPP048,Genta Supply Co.,China,Unknown,Electronic Components,12,0.91,Net 60,2016-01-28,Yes
+SUPP049,Meridian Manufacturing,India,Chennai,Electronic Components,23,0.98,Net 45,2018-01-13,No
+SUPP050,Crestpoint Supply Co.,Germany,Munich,Raw Materials,43,0.88,Net 30,2015-09-24,Yes
+SUPP051,Summit Chemicals,Germany,Berlin,Electronic Components,80,0.96,Net 45,2017-12-28,No
+SUPP052,Nova Components,Taiwan,Taipei,Logistics Services,14,0.69,Net 30,2016-09-02,No
+SUPP053,Rhein Supply Co.,South Korea,Incheon,Logistics Services,49,0.97,Net 60,2018-10-02,No
+SUPP054,Genta Resources,India,Pune,Electronic Components,32,0.89,Net 45,2017-10-05,Yes
+SUPP055,Ironclad Packaging,China,Unknown,Electronic Components,11,0.93,Net 30,2017-08-19,Yes
+SUPP056,Summit Packaging,South Korea,Seoul,Logistics Services,28,0.9,Net 45,2022-08-07,No
+SUPP057,Sinotek Industries,Japan,Nagoya,Raw Materials,42,0.93,Net 30,2016-11-03,No
+SUPP058,Genta Industries,Japan,Tokyo,Chemicals,44,0.95,Net 60,2021-10-06,No
+SUPP059,Hokuto Resources,India,Pune,Logistics Services,18,0.9,Net 30,2023-11-20,No
+SUPP060,Hokuto Manufacturing,China,Unknown,Raw Materials,13,0.9,Net 45,2019-08-28,No
+SUPP061,Continental Materials,Japan,Tokyo,Raw Materials,34,0.65,Net 30,2020-12-02,No
+SUPP062,Continental Manufacturing,Germany,Frankfurt,Logistics Services,59,0.92,Net 45,2021-03-17,Yes
+SUPP063,Ganges Supply Co.,China,Unknown,Electronic Components,18,0.94,Net 45,2015-01-31,No
+SUPP064,Daehan Manufacturing,Japan,Yokohama,Raw Materials,16,0.6,Net 45,2018-09-28,Yes
+SUPP065,Formosa Logistics,Germany,Hamburg,Electronic Components,77,0.88,Net 45,2018-11-01,Yes
+SUPP066,Daehan Manufacturing,South Korea,Seoul,Electronic Components,28,0.89,Net 60,2018-02-27,No
+SUPP067,Continental Logistics,South Korea,Incheon,Packaging,36,0.97,Net 30,2016-09-08,No
+SUPP068,Ganges Materials,China,Unknown,Packaging,29,0.92,Net 30,2016-06-22,No
+SUPP069,Hokuto Logistics,Japan,Yokohama,Logistics Services,34,0.97,Net 30,2022-08-18,No
+SUPP070,Silverline Chemicals,Taiwan,Hsinchu,Electronic Components,12,0.79,Net 60,2023-06-01,No
+SUPP071,Crestpoint Components,South Korea,Seoul,Electronic Components,18,0.93,Net 30,2017-05-20,No
+SUPP072,Crestpoint Packaging,South Korea,Incheon,Electronic Components,29,0.94,Net 45,2015-04-11,No
+SUPP073,Daehan Packaging,China,Unknown,Electronic Components,7,0.94,Net 45,2023-07-27,No
+SUPP074,Daehan Chemicals,China,Unknown,Raw Materials,13,0.87,Net 30,2018-11-13,No
+SUPP075,Silverline Manufacturing,Germany,Hamburg,Logistics Services,65,0.91,Net 30,2022-07-02,No
+SUPP076,United Logistics,Japan,Nagoya,Chemicals,26,0.95,Net 30,2017-07-29,No
+SUPP077,Daehan Components,South Korea,Incheon,Electronic Components,56,0.91,Net 30,2015-12-07,Yes
+SUPP078,Hokuto Logistics,China,Unknown,Packaging,11,0.84,Net 30,2022-12-18,No
+SUPP079,Rhein Resources,India,Pune,Raw Materials,58,0.66,Net 30,2017-11-09,Yes
+SUPP080,Silverline Manufacturing,Germany,Munich,Electronic Components,84,0.94,Net 60,2015-02-07,No
