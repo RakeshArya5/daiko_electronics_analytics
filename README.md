@@ -6,8 +6,6 @@
 
 Daiko sells to distributors, retailers, enterprise buyers, and government agencies across five regions: **Asia Pacific, Europe, North America, Middle East, and South Asia**. Its end-to-end operations — sourcing raw materials and components from 80 global suppliers, manufacturing across its factory network, holding inventory, fulfilling sales orders, and shipping via multiple logistics carriers — generate the operational data captured in this dataset.
 
-This is a **synthetic dataset** generated with `numpy`/`pandas` (seed `42` for reproducibility) for analytics practice, dashboarding, and SQL/BI portfolio projects. All company names, people, and figures are fictional.
-
 ## Files
 
 | File | Rows | Description |
@@ -218,7 +216,8 @@ logistics = pd.read_csv(BASE_URL + "logistics.csv")
 returns = pd.read_csv(BASE_URL + "returns.csv")
 ```
 
-## Business Objectives Supported
+## Business Objectives Supported 
+Here are five business objectives. Find exact analyticas quesiton in the projet document.
 
 1. **Supply chain reliability analysis** — evaluate supplier on-time delivery performance (`purchase_orders` + `suppliers.reliability_score`) to identify sourcing risk and inform supplier consolidation or diversification decisions.
 2. **Sales performance & customer segmentation** — analyze revenue, discounting, and channel mix across `sales_orders` and `customers` to identify top-performing segments, regions, and account managers.
